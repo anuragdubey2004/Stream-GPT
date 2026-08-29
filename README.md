@@ -1,4 +1,4 @@
-GPT-Stream
+Netflix-GPT
 
 SignIn/SighUp Page -
 <img width="1895" height="958" alt="image" src="https://github.com/user-attachments/assets/289726ed-fde4-4848-9d9b-acdec4cdc59b" />
