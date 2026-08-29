@@ -1,4 +1,20 @@
-Netflix-GPT
+# Stream GPT 🎬🤖
+
+Stream GPT is a modern movie streaming and discovery web application built with React, Redux, and Tailwind CSS, integrated with OpenAI's API and the TMDB API to deliver intelligent movie recommendations and a seamless browsing experience.
+
+## Features ✨
+
+* **AI-Powered Movie Search:** Engineered a smart search page utilizing the OpenAI API to provide tailored movie suggestions and recommendations based on user prompts.
+* **Movie Catalog & Browsing:** Displays curated sections of movies categorized into 10+ distinct genres via the TMDB API integration.
+* **Authentication:** Secure user sign-in and sign-up flows powered by Firebase Authentication.
+* **Multi-Language Support:** Fully responsive localization features supporting 3+ languages for a global audience.
+* **Modern UI/UX:** Designed with Tailwind CSS for clean layouts, responsive components, and fluid navigation.
+
+## Tech Stack 🛠️
+
+* **Frontend:** React.js, Redux, Tailwind CSS, JavaScript, HTML5
+* **Authentication & Backend Services:** Firebase Auth
+* **APIs & AI:** OpenAI API, TMDB (The Movie Database) API
 
 SignIn/SighUp Page -
 <img width="1895" height="958" alt="image" src="https://github.com/user-attachments/assets/289726ed-fde4-4848-9d9b-acdec4cdc59b" />
